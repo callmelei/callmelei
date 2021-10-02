@@ -28,9 +28,9 @@ mathtext.fontset: dejavuserif
 xtick.direction: in
 xtick.color: 0
 xtick.major.size: 3
-xtick.major.width: 0.5
+xtick.major.width: 0.25
 xtick.minor.size: 1.5
-xtick.minor.width: 0.5
+xtick.minor.width: 0.25
 xtick.minor.visible: False
 xtick.top: False
 
@@ -38,9 +38,9 @@ xtick.top: False
 ytick.direction: in
 ytick.color: 0
 ytick.major.size: 3
-ytick.major.width: 0.5
+ytick.major.width: 0.25
 ytick.minor.size: 1.5
-ytick.minor.width: 0.5
+ytick.minor.width: 0.25
 ytick.minor.visible: False
 ytick.right: False
 
@@ -53,7 +53,7 @@ axes.edgecolor: 0
 axes.labelcolor: 0
 
 grid.linestyle: :
-grid.linewidth: 0.5
+grid.linewidth: 0.25
 grid.color: 0.8
 lines.solid_capstyle: round
 
