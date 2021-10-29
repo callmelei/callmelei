@@ -1,2 +1,3 @@
-# potpourri
-It could be anything...
+# Templates for Research
+- [Matplotlib](/python/matplotlib/figure.style)
+
