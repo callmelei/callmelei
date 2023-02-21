@@ -1,3 +1,3 @@
-# Templates for Research
+# Templates 
 - [Matplotlib](/python/matplotlib/figure.mplstyle)
 
