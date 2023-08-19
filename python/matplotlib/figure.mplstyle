@@ -17,7 +17,7 @@ text.color: 0
 text.usetex: True
 text.latex.preamble: \usepackage{amsmath, gensymb}
 
-mathtext.fontset: dejavuserif
+mathtext.fontset: stix
 #mathtext.bf:  sans:bold
 #mathtext.cal: cursive
 #mathtext.it:  sans:italic
